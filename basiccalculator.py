@@ -217,7 +217,6 @@ Button(
     pady=2,
     sticky="nsew"
 )
-
 root.mainloop()
 
 #RISHITA SARKAR 

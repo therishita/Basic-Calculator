@@ -1,14 +1,15 @@
 # Basic Calculator
 
-A simple **Python calculator** for performing basic arithmetic operations.
+A simple **GUI-based calculator built with Python and Tkinter**.
 
 ## Features
 
-* Addition
-* Subtraction
-* Multiplication
-* Division
-* Simple user input
+* Addition, subtraction, multiplication, and division
+* Square root
+* Decimal calculations
+* Backspace and clear buttons
+* Calculation history
+* Simple graphical interface
 
 ## How to Run
 
@@ -19,5 +20,7 @@ python calculator.py
 ## Tech Used
 
 * Python
+* Tkinter
+* Math module
 
 Built with Python by **Rishita Sarkar**.
